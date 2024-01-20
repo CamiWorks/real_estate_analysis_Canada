@@ -4,20 +4,20 @@ This project focuses on the real estate analysis on the Canadian territory.
 
 # How to set before using it.
 
-This project called a Real_Estate API (https://rapidapi.com/apidojo/api/realty-in-ca1/) you will be required to set your own key, so the program will work. 
+This project involves utilizing a Real Estate API (https://rapidapi.com/apidojo/api/realty-in-ca1/). You are required to set up your own key for the program to function. To do this, open 'real_estate.py,' locate line 7, add your personal key from the API, save the file, and then close it.
 
-To do that go and open 'real_estate.py' on line 7 add your own key from the API save the file an close it.
+After completing the setup, execute the command 'python data_processing.py', in your terminal. Subsequently, the program will prompt you to input an address. 
 
-after that you can just execute on yout terminal with the command 'python data_processing.py' (python3), after, the program will prompt you to input an address, you can go ahead and input the address make sure is in the right formating such as;
+Ensure that the address is formatted correctly, such as:
 
 ADDRESS OR LOCALITY, CITY, PROVINCE, COUNTRY.
 
-Once you input the address hit enter and that is all, you after will have a success message telling you everything went fine, if not try again and verify your input. 
+Once you input the address, press Enter, and that's it. You will receive a success message indicating that everything went smoothly. If not, try again and verify your input.
 
-after you will realize within the folder where the app is being contained a new folder has been created heading 'REPORT_XXXXXXX' that is your report you just created about the place you input. go ahead open it and click on the index of the file. 
+Afterward, you'll notice that within the folder containing the app, a new folder labeled 'REPORT_XXXXXXX' has been created. This folder contains the report you just generated about the inputted location. Open it and click on the index file with extension ".html".
 
-after you will see a full web report that you can share or even print if required pressing crl + f or cmd + f on maOS.
+Inside, you'll find a comprehensive web report that you can easily share or print if needed by pressing 'Ctrl + P' or 'Cmd + P' on macOS.
 
-Hope this might be some help for you. In some way or to do some homework
+I hope this proves helpful for future implementations.
 
-Cheers!!!
+Cheers!
