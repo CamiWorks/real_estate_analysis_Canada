@@ -6,7 +6,9 @@ This project focuses on the real estate analysis on the Canadian territory.
 
 This project involves utilizing a Real Estate API (https://rapidapi.com/apidojo/api/realty-in-ca1/). You are required to set up your own key for the program to function. To do this, open 'real_estate.py,' locate line 7, add your personal key from the API, save the file, and then close it.
 
-After completing the setup, execute the command 'python data_processing.py', in your terminal. Subsequently, the program will prompt you to input an address. 
+# How to use it.
+
+After completing the setup, open your terminal window and execute the command 'python data_processing.py'. Subsequently, the program will prompt you to input an address. 
 
 Ensure that the address is formatted correctly, such as:
 
@@ -20,4 +22,6 @@ Inside, you'll find a comprehensive web report that you can easily share or prin
 
 I hope this proves helpful for future implementations.
 
-Cheers!
+# Notes
+
+In the repository, you'll also discover examples I've previously run. Feel free to explore and open them to see what an expected output looks like.
